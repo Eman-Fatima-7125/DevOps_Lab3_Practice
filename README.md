@@ -11,3 +11,5 @@ Line 4
 Line 5 
 This line was added locally.
 Second local update.
+Feature branch line 1
+Feature branch line 2
